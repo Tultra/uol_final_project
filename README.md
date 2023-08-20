@@ -8,7 +8,7 @@ Best model is "Model J", with 86,34% accuracy.
 
 ### Model comparison
 
-| Models	 |Total layers	n.| epochs	n. | Dropouts	n.| Batch Regularization |	Accuracy (test set)|	Comments |
+| &nbsp;Models&nbsp;&nbsp;	 |Total layers	n.| epochs	n. | Dropouts	n.| Batch Reg. |	Accuracy (test set)|	Comments |
 | -------- | -------------- | ---------- | ---------- | ------------------- | ------------------ | --------- |
 | Baseline |	5           	|  4	       |  -         | 	-                 | 	60.46%	         |           |
 |Model A|	7	|8|	-|	-|	65.52%	|Conv2d/MaxPool2D layers added|
