@@ -6,7 +6,7 @@ This code repository contain all Jupyter Notebooks created for Final Project of 
 
 Best model is "Model J", with 86,34% accuracy. 
 
-|Model Results|	
+### Model comparison
 
 | Models	 |Total layers	n.| epochs	n. | Dropouts	n.| Batch Regularization |	Accuracy (test set)|	Comments |
 | -------- | -------------- | ---------- | ---------- | ------------------- | ------------------ | --------- |
@@ -20,7 +20,7 @@ Best model is "Model J", with 86,34% accuracy.
 |Model G|	23|	32|	4	|7|	83.06%	|Dropout values tweak (raised) / BatchNormalization added|
 |Model H|	23|	64|	4|	7|	84.74%|	|
 |Model I|	23|	100|	4|	7|	85.92%	|Dropout values tweak (raised)|
-|Model J|	30|	100|	5|	9|	86.34%	|Conv2D/BatchNormalization/MaxPooling/Dropout/Dense layers added|
+|Model J|	30|	100|	5|	9|	**86.34%**	|Conv2D/BatchNormalization/MaxPooling/Dropout/Dense layers added|
 |Model K|	31|	100|	6|9|	86.26%|	Dropout values tweak (raised) / Dropout layer added|
 |Model L|	37|	100|	7|	11|	85.53%	|Conv2D/BatchNormalization/MaxPooling/Dropout/Dense layers added. Dropout values tweak (raised)|
 |Model M|	435|	50|	2|	multiple|	76.71%	||
