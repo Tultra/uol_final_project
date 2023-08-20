@@ -4,6 +4,8 @@
 
 This code repository contain all Jupyter Notebooks created for Final Project of the BSc Computer Science degree coordinated by the University of London.
 
+Models were created in incremental steps starting from baseline up to Model 'L'. Model 'M' is a direct implementation of DensetNet Tensorflow application.
+
 Best model is "Model J", with 86,34% accuracy. 
 
 ### Model comparison
